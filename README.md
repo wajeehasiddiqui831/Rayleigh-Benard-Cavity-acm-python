@@ -94,7 +94,3 @@ unsteady cases are sampled values, not steady-state values.
 [1] Siddiqui, W., Abbas, Z., Akhtar, I., Khalid, M.S.U. (2022). ASME FEDSM 2022, DOI 10.1115/FEDSM2022-87897.
 [2] Lartigue, B., Lorente, S., Bourret, B. (2000). Multicellular natural convection in a high aspect ratio cavity:
 experimental and numerical results. Int. J. Heat Mass Transfer 43, 3157–3170, DOI 10.1016/S0017-9310(99)00362-2.
-
-## License
-
-Not yet set (pending permission from the base-code author).
